@@ -1,5 +1,6 @@
 # Buzzing-Bee
 Buzzing Bee Platform Summary:
+
 The Problem:
 Earthquakes: Nature's most unpredictable and one of the most devastating natural disasters. Some of the common impacts of earthquakes include structural damage to buildings, fires, damage to bridges and highways, initiation of slope failures and tsunami.
 The damage is not caused by the quake itself but by the collapse of buildings with people inside them. When high intensity earthquakes strike they can cause thousands of deaths and billions of dollars in damaged property and economical loss too.
@@ -19,3 +20,26 @@ The software can run on any modern platform and is very simple and interactive w
 
 Buzzing Bee is communicative:
 Buzzing Bee is user friendly, easy to use, simple and that the users can rely on any ways of our communication with the people. It is easy to start with the app and understand how to use it. It is mobile compatible and is accessible to all users. It is interactive and affordable.
+  
+
+Solution at a glance
+
+Buzzing Bee components: 
+Watson Studio
+IBM DB2
+B Analyser
+BBS
+Bee Code
+Bee.earth.html
+BeeEarthApk
+
+Get started   
+BuzzingBee story or vedio
+Setting up the solution
+Project roadmap
+Built with
+Contributing
+License
+Acknowledgment
+
+# Buzzing-bee story or vedio
