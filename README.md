@@ -1,4 +1,5 @@
 # BUZZING-BEE
+![](images/03042019-03.jpg)
 ## Buzzing Bee Platform Summary:
 
 ## The Problem:
@@ -26,7 +27,7 @@ Buzzing Bee is user friendly, easy to use, simple and that the users can rely on
 
 
 # Architecture 
-![](Architecture%20Document.jpg)
+![](images/Architecture%20Document.jpg)
 
 ###### Old technology:
  The old technology gives the magnitude of the amount of earthquake that occurred in a specific region by using a seismometer.
@@ -73,7 +74,7 @@ download the the code given about and execute the exe file.And also download the
 Our video helps to share a better understanding of the idea we are trying propose.
 [click here to watch our video](https://www.youtube.com/watch?v=pJv02pYJ1w8)
 # RoadMap
-![](RoadmapFinal%20Document%20(1)%20(1)%20final.jpg)
+![](images/RoadmapFinal%20Document%20(1)%20(1)%20final.jpg)
 # Contributing
 Contributing
 When contributing a major change to this repository, please first discuss the change you wish to make via an issue . Minor issues can simply be addressed by sending by a pull request.
