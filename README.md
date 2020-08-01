@@ -43,7 +43,8 @@ License
 Acknowledgment
 
 # Buzzing-bee story or video
-[](https://www.youtube.com/watch?v=pJv02pYJ1w8)
+Our video helps to share a better understanding of the idea we are trying propose.
+[click here to watch our video](https://www.youtube.com/watch?v=pJv02pYJ1w8)
 # Setup
 
 ![](Architecture%20Document.jpg)
@@ -70,7 +71,7 @@ DB2 is a database product, family of a Relational Database Management System (RD
 It analyzes the old technology, and the current technology and our data to store, move the analyzed data. It basically examines the data and tries to find patterns and relationships. A self-developed code and used for the given output expected. It takes the useful information and filters the data and provides the proper output for a better understanding of the reason of occurs. This is major part which is directly proportional to the output accuracy.
 
 ###### Bee code:
-	This helps in erasing the unwanted data and use the effective data for our prediction. This piece of code is written in Python. This encloses our prediction algorithm. This part is the major part as the output is generated in this part. This code also generates the code version to user interactive for the usability .It works on Python framework.
+This helps in erasing the unwanted data and use the effective data for our prediction. This piece of code is written in Python. This encloses our prediction algorithm. This part is the major part as the output is generated in this part. This code also generates the code version to user interactive for the usability .It works on Python framework.
 	
 ###### BBS:
  This is the software built and designed by our team “Buzzing Bees”. This gives the analyzed data combined with our algorithm as the result. The algorithm is specially designed for this purpose of user interactivity and connectivity of the people with our project.
@@ -79,7 +80,7 @@ It analyzes the old technology, and the current technology and our data to store
 One the method of connectivity with the people is webpage. Completely developed by the team and very interactive platform for the users to have the notification of any future alerts regarding earthquake. 
 
 ###### Bee APP:
-	One the method of connectivity with the people is mobile application. Completely developed by the team and very interactive platform for the users to have the notification of any future alerts regarding earthquake.
+One the method of connectivity with the people is mobile application. Completely developed by the team and very interactive platform for the users to have the notification of any future alerts regarding earthquake.
 # RoadMap
 ![](RoadmapFinal%20Document%20(1)%20(1)%20final.jpg)
 # Contributing
