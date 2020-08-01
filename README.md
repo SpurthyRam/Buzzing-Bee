@@ -66,7 +66,8 @@ Watson Studio IBM DB2 B Analyser BBS Bee Code Bee.earth.html BeeEarthApk
 BuzzingBee story or video setting up the solution Project roadmap Built with Contributing License Acknowledgment.
 
 ###### Installing
-download the the code given about and execute the exe file.
+download the the code given about and execute the exe file.And also download the file linked.
+[file](https://drive.google.com/file/d/1PItxo2EvIWbErLegQA3k6tfbQ6B4MzD7/view?usp=sharing)
 
 # Buzzing-bee story or video
 Our video helps to share a better understanding of the idea we are trying propose.
