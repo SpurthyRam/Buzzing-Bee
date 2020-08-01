@@ -67,7 +67,6 @@ BuzzingBee story or video setting up the solution Project roadmap Built with Con
 
 ###### Installing
 download the the code given about and execute the exe file.And also download the file linked.
-
 [click here for file](https://drive.google.com/file/d/1PItxo2EvIWbErLegQA3k6tfbQ6B4MzD7/view?usp=sharing)
 
 # Buzzing-bee story or video
@@ -126,4 +125,5 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4
 # License
+![click here for the info](apache%202.0.docx)
 
