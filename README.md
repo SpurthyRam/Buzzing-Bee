@@ -25,13 +25,7 @@ Buzzing Bee is user friendly, easy to use, simple and that the users can rely on
 # Solution at a glance
 
 ## Buzzing Bee components: 
-Watson Studio
-IBM DB2
-B Analyser
-BBS
-Bee Code
-Bee.earth.html
-BeeEarthApk
+Watson Studio IBM DB2 B Analyser BBS Bee Code Bee.earth.html BeeEarthApk
 
 ## Get started   
 BuzzingBee story or vedio Setting up the solution Project roadmap Built with Contributing License Acknowledgment
@@ -39,8 +33,8 @@ BuzzingBee story or vedio Setting up the solution Project roadmap Built with Con
 # Buzzing-bee story or video
 Our video helps to share a better understanding of the idea we are trying propose.
 [click here to watch our video](https://www.youtube.com/watch?v=pJv02pYJ1w8)
-# Setup
 
+# Architecture 
 ![](Architecture%20Document.jpg)
 
 ###### Old technology:
