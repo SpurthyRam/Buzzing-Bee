@@ -84,6 +84,7 @@ Bee.earth.html:
 Bee APP:
 	One the method of connectivity with the people is mobile application. Completely developed by the team and very interactive platform for the users to have the notification of any future alerts regarding earthquake.
 # RoadMap
+![](RoadmapFinal%20Document%20(1)%20(1)%20final.jpg)
 # Contributing
 Contributing
 When contributing a major change to this repository, please first discuss the change you wish to make via an issue . Minor issues can simply be addressed by sending by a pull request.
