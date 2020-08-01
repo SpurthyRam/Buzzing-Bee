@@ -63,7 +63,10 @@ One the method of connectivity with the people is mobile application. Completely
 Watson Studio IBM DB2 B Analyser BBS Bee Code Bee.earth.html BeeEarthApk
 
 ## Get started   
-BuzzingBee story or vedio Setting up the solution Project roadmap Built with Contributing License Acknowledgment
+BuzzingBee story or video setting up the solution Project roadmap Built with Contributing License Acknowledgment.
+
+###### Installing
+download the the code given about and execute the exe file.
 
 # Buzzing-bee story or video
 Our video helps to share a better understanding of the idea we are trying propose.
