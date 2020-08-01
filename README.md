@@ -67,7 +67,7 @@ Watson Studio IBM DB2 B Analyser BBS Bee Code Bee.earth.html BeeEarthApk
 BuzzingBee story or video setting up the solution Project roadmap Built with Contributing License Acknowledgment.
 
 ###### Installing
-download the the code given above and execute the exe file.And also download the file linked.
+download the the code given above and execute the exe file. And also download the file linked.
 [click here for file](https://drive.google.com/file/d/1PItxo2EvIWbErLegQA3k6tfbQ6B4MzD7/view?usp=sharing)
 
 # Buzzing-bee story or video
@@ -75,6 +75,9 @@ Our video helps to share a better understanding of the idea we are trying propos
 [click here to watch our video](https://www.youtube.com/watch?v=pJv02pYJ1w8)
 # RoadMap
 ![](images/RoadmapFinal%20Document%20(1)%20(1)%20final.jpg)
+
+This is the plan/goal set to be convered to the team for applying it. As this may take more time to make it possible to apply it gobally.
+This is the next step for a revolutionary turn to make living safe.
 # Contributing
 Contributing
 When contributing a major change to this repository, please first discuss the change you wish to make via an issue . Minor issues can simply be addressed by sending by a pull request.
