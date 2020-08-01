@@ -67,7 +67,8 @@ BuzzingBee story or video setting up the solution Project roadmap Built with Con
 
 ###### Installing
 download the the code given about and execute the exe file.And also download the file linked.
-[file](https://drive.google.com/file/d/1PItxo2EvIWbErLegQA3k6tfbQ6B4MzD7/view?usp=sharing)
+
+[click here for file](https://drive.google.com/file/d/1PItxo2EvIWbErLegQA3k6tfbQ6B4MzD7/view?usp=sharing)
 
 # Buzzing-bee story or video
 Our video helps to share a better understanding of the idea we are trying propose.
