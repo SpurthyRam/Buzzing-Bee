@@ -24,15 +24,6 @@ Buzzing Bee is user friendly, easy to use, simple and that the users can rely on
 
 # Solution at a glance
 
-## Buzzing Bee components: 
-Watson Studio IBM DB2 B Analyser BBS Bee Code Bee.earth.html BeeEarthApk
-
-## Get started   
-BuzzingBee story or vedio Setting up the solution Project roadmap Built with Contributing License Acknowledgment
-
-# Buzzing-bee story or video
-Our video helps to share a better understanding of the idea we are trying propose.
-[click here to watch our video](https://www.youtube.com/watch?v=pJv02pYJ1w8)
 
 # Architecture 
 ![](Architecture%20Document.jpg)
@@ -40,8 +31,6 @@ Our video helps to share a better understanding of the idea we are trying propos
 ###### Old technology:
  The old technology gives the magnitude of the amount of earthquake that occurred in a specific region by using a seismometer.
 Seismology lies at the core of earthquake science because its main concern is the measurement and physical description of ground shaking. The central problem of seismology is the prediction of ground motions from knowledge of seismic-wave generation by faulting (the earthquake source) and the elastic medium through which the waves propagate (Earth structure).
-
-
 
 ###### Current technology:
 The current technology predicts the occurred earthquake after it has reached the surface. The technology used now a days detected the wave after it is produced and helps us to estimate the magnitude of the earthquake and it gives us just few second before the impact.
@@ -69,6 +58,16 @@ One the method of connectivity with the people is webpage. Completely developed 
 
 ###### Bee APP:
 One the method of connectivity with the people is mobile application. Completely developed by the team and very interactive platform for the users to have the notification of any future alerts regarding earthquake.
+
+## Buzzing Bee components: 
+Watson Studio IBM DB2 B Analyser BBS Bee Code Bee.earth.html BeeEarthApk
+
+## Get started   
+BuzzingBee story or vedio Setting up the solution Project roadmap Built with Contributing License Acknowledgment
+
+# Buzzing-bee story or video
+Our video helps to share a better understanding of the idea we are trying propose.
+[click here to watch our video](https://www.youtube.com/watch?v=pJv02pYJ1w8)
 # RoadMap
 ![](RoadmapFinal%20Document%20(1)%20(1)%20final.jpg)
 # Contributing
