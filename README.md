@@ -45,6 +45,7 @@ Acknowledgment
 # Buzzing-bee story or vedio
 
 # Setup
+![GitHub Logo](/RoadmapFinal Document (1) (1) final.png)
 
 Old technology:
  The old technology gives the magnitude of the amount of earthquake that occurred in a specific region by using a seismometer.
