@@ -1,7 +1,7 @@
 # Buzzing-Bee
-Buzzing Bee Platform Summary:
+## Buzzing Bee Platform Summary:
 
-The Problem:
+###### The Problem:
 Earthquakes: Nature's most unpredictable and one of the most devastating natural disasters. Some of the common impacts of earthquakes include structural damage to buildings, fires, damage to bridges and highways, initiation of slope failures and tsunami.
 The damage is not caused by the quake itself but by the collapse of buildings with people inside them. When high intensity earthquakes strike they can cause thousands of deaths and billions of dollars in damaged property and economical loss too.
 Earthquakes pose inevitable risks to everyone who lives in a seismically active region. Even though the hazard is well recognized, no one knows when an earthquake will strike or how severe it will be.
