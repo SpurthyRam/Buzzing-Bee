@@ -34,13 +34,7 @@ Bee.earth.html
 BeeEarthApk
 
 ## Get started   
-BuzzingBee story or vedio
-Setting up the solution
-Project roadmap
-Built with
-Contributing
-License
-Acknowledgment
+BuzzingBee story or vedio Setting up the solution Project roadmap Built with Contributing License Acknowledgment
 
 # Buzzing-bee story or video
 Our video helps to share a better understanding of the idea we are trying propose.
