@@ -45,8 +45,8 @@ Acknowledgment
 # Buzzing-bee story or vedio
 
 # Setup
-![GitHub Logo](/RoadmapFinal Document (1) (1) final.png)
-
+`
+![](Architecture Document.jpg)
 Old technology:
  The old technology gives the magnitude of the amount of earthquake that occurred in a specific region by using a seismometer.
 Seismology lies at the core of earthquake science because its main concern is the measurement and physical description of ground shaking. The central problem of seismology is the prediction of ground motions from knowledge of seismic-wave generation by faulting (the earthquake source) and the elastic medium through which the waves propagate (Earth structure).
